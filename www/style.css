@@ -1,0 +1,15 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#map {
+height: 100vh;
+width: 100%;
+}
+
+/*img[src*="nexrad-n0q-900913"] {
+  image-rendering: auto;
+  filter: blur(1px) brightness(1.1);
+}*/
